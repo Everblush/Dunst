@@ -5,7 +5,7 @@
 <h2 align="center">Everblush Dunst Theme</h2>
 
 <p align="center">
-<img src="https://img.shields.io/github/stars/Everblush/Dunst?color=e5c76b&labelColor=1e2528&style=for-the-badge"> <img src="https://img.shields.io/github/issues/Everblush/discord?color=67b0e8&labelColor=1e2528&style=for-the-badge">
+<img src="https://img.shields.io/github/stars/Everblush/Dunst?color=e5c76b&labelColor=1e2528&style=for-the-badge"> <img src="https://img.shields.io/github/issues/Everblush/Dunst?color=67b0e8&labelColor=1e2528&style=for-the-badge">
 <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8ccf7e&labelColor=1e2528&style=for-the-badge">
 <img src="https://img.shields.io/github/forks/Everblush/Dunst?color=e74c4c&labelColor=1e2528&style=for-the-badge">
 </p>
